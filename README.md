@@ -12,5 +12,6 @@
 </foreignObject>
 </svg>
 
-![](./https://github.com/deep-model/Automatic_Speech_Recognition/blob/main/page_merged.svg)
+![](./main/page_merged.svg)
+
 
