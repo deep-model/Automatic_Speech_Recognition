@@ -13,6 +13,8 @@ This repository hosts a **GitHub Pages–optimized version** of the ASR Report b
 ## 📂 Repository Structure
 ```
 main/
+ ├── ASR_Report_M.Harper.pdf
+ ├── speech_recognition.py
 
 docs/
  ├── index.md        # Main rendered document
@@ -25,6 +27,7 @@ docs/
 
 ## 🚀 Deployment
 This site is deployed using **GitHub Pages** from the `/docs` directory.
+
 
 
 
