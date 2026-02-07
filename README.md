@@ -2,12 +2,12 @@
 
 
 [Project White Paper](https://github.com/deep-model/Automatic_Speech_Recognition/blob/main/ASR_Report_M.Harper.pdf)
-# ASR Report
+# AI-Driven Speech Recognition Models Speech Recognition with End-to-End ASR 
 
 This repository hosts a **GitHub Pages–optimized version** of the ASR Report by **Matthew Harper**.
 
 ## 📄 Live Document
-👉 View the report here: **GitHub Pages site**
+👉 View the report here: [**GitHub Pages site**](https://github.com/deep-model/Automatic_Speech_Recognition/blob/main/ASR_Report_M.Harper.pdf)
 
 ## 📂 Repository Structure
 ```
@@ -22,4 +22,5 @@ docs/
 
 ## 🚀 Deployment
 This site is deployed using **GitHub Pages** from the `/docs` directory.
+
 
