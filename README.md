@@ -2,8 +2,8 @@
 
 
 [Project White Paper](https://github.com/deep-model/Automatic_Speech_Recognition/blob/main/ASR_Report_M.Harper.pdf)
-# AI-Driven Speech Recognition Models 
-# Speech Recognition with End-to-End ASR 
+# AI-Driven Speech Recognition Models & End-to-End ASR 
+# Using Nvidia NeMo toolkit ASR
 
 This repository hosts a **GitHub Pages–optimized version** of the ASR Report by **Matthew Harper**.
 
@@ -23,6 +23,7 @@ docs/
 
 ## 🚀 Deployment
 This site is deployed using **GitHub Pages** from the `/docs` directory.
+
 
 
 
