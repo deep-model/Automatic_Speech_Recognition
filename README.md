@@ -1,1 +1,9 @@
-Nvidia NeMo Toolkit based AI-Driven Speech Recognition Project with End-to-End ASR using Hugging Face built on Git-based repositories, which allow for version control and collaboration on these assets.
+<!DOCTYPE html>
+<html>
+<head>
+    <title>View PDF</title>
+</head>
+<body>
+    <embed src="https://deep-model.github.io" type="application/pdf" width="100%" height="850px" />
+</body>
+</html>
