@@ -5,7 +5,6 @@
 # AI-Driven Speech Recognition Models & End-to-End ASR 
 # Using Nvidia NeMo toolkit ASR
 
-This repository hosts a **GitHub Pages–optimized version** of the ASR Report by **Matthew Harper**.
 
 **Abstract**: AI-based  speech recognition is a rapidly growing field of research which 
 has transformed the way humans interact not only with machines but with each other. 
@@ -18,6 +17,8 @@ translation of speech from a verbal format to a text one whereas voice recogniti
 just seeks to identify an individual user’s voice [6]. This report provides a 
 summary introduction into speech recognition models and illustrates a basic ASR 
 model with the lab practicum. 
+
+This repository hosts a **GitHub Pages–optimized version** of the ASR Report by **Matthew Harper**.
 
 ## 📄 Live Document
 👉 View the report here: [**GitHub Pages site**](https://github.com/deep-model/Automatic_Speech_Recognition/blob/main/ASR_Report_M.Harper.pdf)
@@ -39,6 +40,7 @@ docs/
 
 ## 🚀 Deployment
 This site is deployed using **GitHub Pages** from the `/docs` directory.
+
 
 
 
