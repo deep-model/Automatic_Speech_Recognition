@@ -1,7 +1,7 @@
 
 
 
-[README.md](https://github.com/user-attachments/files/25154942/README.md)
+[Project White Paper](https://github.com/deep-model/Automatic_Speech_Recognition/blob/main/ASR_Report_M.Harper.pdf)
 # ASR Report
 
 This repository hosts a **GitHub Pages–optimized version** of the ASR Report by **Matthew Harper**.
@@ -22,3 +22,4 @@ docs/
 
 ## 🚀 Deployment
 This site is deployed using **GitHub Pages** from the `/docs` directory.
+
