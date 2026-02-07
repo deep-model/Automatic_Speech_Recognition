@@ -12,6 +12,7 @@
 </foreignObject>
 </svg>
 
-![](./main/page_merged.svg)
+![](./docs/page_merged.svg)
+
 
 
