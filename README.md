@@ -4,6 +4,6 @@
     <title>View PDF</title>
 </head>
 <body>
-    <embed src="https://deep-model.github.io" type="application/pdf" width="100%" height="850px" />
+    <iframe src="path/to/your/file.pdf" width="100%" height="500px"></iframe>
 </body>
 </html>
