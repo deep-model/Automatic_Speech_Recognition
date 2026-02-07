@@ -2,8 +2,8 @@
 
 
 [Linked White Paper](https://github.com/deep-model/Automatic_Speech_Recognition/blob/main/ASR_Report_M.Harper.pdf)
-# AI-Driven Speech Recognition Models & End-to-End ASR 
-# Using Nvidia NeMo toolkit ASR
+# AI-Driven Speech Recognition Models 
+# End-to-End ASR with Nvidia NeMo toolkit ASR
 
 
 **Abstract**: AI-based  speech recognition is a rapidly growing field of research which 
@@ -40,6 +40,7 @@ docs/
 
 ## 🚀 Deployment
 This site is deployed using **GitHub Pages** from the `/docs` directory.
+
 
 
 
