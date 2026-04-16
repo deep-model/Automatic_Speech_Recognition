@@ -1,11 +1,11 @@
 
 
 
-[Linked White Paper](https://github.com/deep-model/Automatic_Speech_Recognition/blob/main/ASR_Report_M.Harper.pdf)
+## [Linked White Paper](https://github.com/deep-model/Automatic_Speech_Recognition/blob/main/ASR_Report_M.Harper.pdf)
 # AI-Driven Speech Recognition Models 
 # End-to-End ASR with Nvidia NeMo toolkit ASR
 
-
+## [Veiw Project List](https://github.com/deep-model?tab=repositories)
 **Abstract**: AI-based  speech recognition is a rapidly growing field of research which 
 has transformed the way humans interact not only with machines but with each other. 
 Speech recognition is considered a technology that enables machines to understand 
