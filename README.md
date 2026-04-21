@@ -225,11 +225,11 @@ Long Short-Term Memory (LSTMs): A form of RNN that includes special gates to con
 of information, allowing them to maintain long-term dependencies. This helps in handling 
 sequences where context from earlier in the sequence is important.  
 
-Transformers: Transformers rely on self-attention mechanisms to process sequences in parallel, 
+<b> Transformers: </b> Transformers rely on self-attention mechanisms to process sequences in parallel, 
 rather than sequentially. This allows for more efficient computation and the ability to capture long
 range dependencies more effectively.  
 
-Speech-to-Text  Speaker Diarization 
+## Speaker Diarization
 Speaker diarization is a technique used to identify and separate the speech of different speakers in an 
 audio recording. By analyzing the audio stream, the system can determine who spoke at what time, 
 providing valuable information for applications like transcription, analysis, or indexing. In addition, This 
