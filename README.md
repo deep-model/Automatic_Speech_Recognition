@@ -44,7 +44,7 @@ only with machines but with each other. Speech recognition is considered a techn
 process human speech into a written format. While speech recognition is commonly confused with voice recognition, speech recognition focuses on 
 the translation of speech from a verbal format to a text one whereas voice recognition just seeks to identify an individual user’s voice [6]. This report 
 provides a summary introduction into speech recognition models and illustrates a basic ASR model with the lab practicum.</td>
-    <td><img width="1600" height="1400" alt="image" src="https://github.com/deep-model/Automatic_Speech_Recognition/blob/main/figure%201.png" width="300" alt="Description"></td>
+    <td><img width="2600" height="3400" alt="image" src="https://github.com/deep-model/Automatic_Speech_Recognition/blob/main/figure%201.png" width="300" alt="Description"></td>
   </tr>
 </table>
 <div>
