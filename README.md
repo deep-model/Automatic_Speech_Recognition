@@ -324,8 +324,7 @@ the original signal [5].
 multilingual models.  </b>
 
 <img width="900" height="600" alt="image" src="https://github.com/deep-model/Automatic_Speech_Recognition/blob/main/fig%202.png"/>
-### Training SR Models 
-
+<b>Training SR Models </b>
 Training of deep learning models can be performed end-to-end, meaning the entire process from audio 
 input to text output is optimized simultaneously. This contrasts with traditional methods, which often 
 required separate models for different stages of the process (e.g., feature extraction, pattern recognition). 
@@ -416,9 +415,7 @@ nb [8]
 Step 1 – Load the Python Libraries huggingface_hub and NeMo toolkit ASR from Github 
 <br>
 Step 2 – Create Path to data directory   
-
 Step 3 – Load AN4 Dataset  
-
 Step 4 – Convert to .wav Audio Files 
 <br>
 Step 5 – Verify Dataset Loaded & Converted (display audio waveform) 
