@@ -318,11 +318,8 @@ illustrated in the the formula below where convolution was utilized to add or em
 the original signal [5]. 
 
 <img width="900" height="600" alt="image" src="https://github.com/deep-model/Automatic_Speech_Recognition/blob/main/eq%205.png"/>
-<br>
-<br>
 <b> The graphs below in the figure indicate a significant reduction in % WER in both monolingual and 
 multilingual models.  </b>
-
 <img width="900" height="600" alt="image" src="https://github.com/deep-model/Automatic_Speech_Recognition/blob/main/fig%202.png"/>
 <b>Training SR Models </b>
 Training of deep learning models can be performed end-to-end, meaning the entire process from audio 
