@@ -8,7 +8,7 @@
 
 
 
-<img align="left" width="300" height="400" src="https://github.com/deep-model/Automatic_Speech_Recognition/blob/main/figure%201.png">
+<img align="left" width="600" height="400" src="https://github.com/deep-model/Automatic_Speech_Recognition/blob/main/figure%201.png">
 <b> Abstract: </b> AI-based  speech recognition is a rapidly growing field of research which has transformed the way humans interact not 
 only with machines but with each other. Speech recognition is considered a technology that enables machines to understand and interpret human speech 
 [1]. Also known as automatic speech recognition (ASR), computer speech recognition or speech-to-text, is a capability that enables a program to 
