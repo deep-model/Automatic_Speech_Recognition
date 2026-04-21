@@ -16,6 +16,8 @@ process human speech into a written format. While speech recognition is commonly
 the translation of speech from a verbal format to a text one whereas voice recognition just seeks to identify an individual user’s voice [6]. This report 
 provides a summary introduction into speech recognition models and illustrates a basic ASR model with the lab practicum.
 
+<br>
+<br>
 
 ## Introduction 
 
