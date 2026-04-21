@@ -324,8 +324,6 @@ the original signal [5].
 multilingual models.  </b>
 
 <img width="900" height="600" alt="image" src="https://github.com/deep-model/Automatic_Speech_Recognition/blob/main/fig%202.png"/>
-### Figure 2 – Results of ASR model trained with noise embedded augmented audio data set combined with [5]. 
-
 ### Training SR Models 
 
 Training of deep learning models can be performed end-to-end, meaning the entire process from audio 
@@ -418,9 +416,9 @@ nb [8]
 Step 1 – Load the Python Libraries huggingface_hub and NeMo toolkit ASR from Github 
 <br>
 Step 2 – Create Path to data directory   
-<br>
+
 Step 3 – Load AN4 Dataset  
-<br>
+
 Step 4 – Convert to .wav Audio Files 
 <br>
 Step 5 – Verify Dataset Loaded & Converted (display audio waveform) 
