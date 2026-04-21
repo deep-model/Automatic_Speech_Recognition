@@ -2,10 +2,10 @@
 
 
 ## [Linked White Paper](https://github.com/deep-model/Automatic_Speech_Recognition/blob/main/ASR_Report_M.Harper.pdf)
-# AI-Driven Speech Recognition Models 
-# End-to-End ASR with Nvidia NeMo toolkit ASR
+# AI-Driven Workflows for Automatic Speech Recognition with Nvidia NeMo toolkit for ASR
 
 ## [Veiw Project List](https://github.com/deep-model?tab=repositories)
+
 **Abstract**: AI-based  speech recognition is a rapidly growing field of research which 
 has transformed the way humans interact not only with machines but with each other. 
 Speech recognition is considered a technology that enables machines to understand 
@@ -18,8 +18,13 @@ just seeks to identify an individual user’s voice [6]. This report provides a
 summary introduction into speech recognition models and illustrates a basic ASR 
 model with the coded library example. 
 
-Introduction 
-Figure 1 – Example of a Speech-to-Text model utilized by common smart phone 
+## Introduction 
+
+
+
+
+
+### Figure 1 – Example of a Speech-to-Text model utilized by common smart phone 
 applications [4]. 
 Speech recognition refers to the technology that enables machines to understand and interpret human 
 speech. This technology involves converting spoken language into text through a series of complex 
