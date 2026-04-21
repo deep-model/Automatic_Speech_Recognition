@@ -18,7 +18,10 @@ provides a summary introduction into speech recognition models and illustrates a
 
 <br>
 <br>
-
+<br>
+<br>
+<br>
+<br>
 ## Introduction 
 
 Speech recognition refers to the technology that enables machines to understand and interpret human 
