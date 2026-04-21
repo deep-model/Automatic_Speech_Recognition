@@ -6,6 +6,9 @@
 
 ## [Veiw Project List](https://github.com/deep-model?tab=repositories)
 
+
+<img width="400" height="300" alt="image" src="https://github.com/deep-model/Automatic_Speech_Recognition/blob/main/Abstract.png"/>
+
 **Abstract**: AI-based  speech recognition is a rapidly growing field of research which 
 has transformed the way humans interact not only with machines but with each other. 
 Speech recognition is considered a technology that enables machines to understand 
