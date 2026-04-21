@@ -1,11 +1,14 @@
 
 
 
-## [Linked White Paper](https://github.com/deep-model/Automatic_Speech_Recognition/blob/main/ASR_Report_M.Harper.pdf)
-# AI-Driven Workflows for Automatic Speech Recognition with Nvidia NeMo toolkit for ASR
+
 
 ## [Veiw Project List](https://github.com/deep-model?tab=repositories)
 
+# AI-Driven Workflows for Automatic Speech Recognition with Nvidia NeMo toolkit for ASR
+
+
+## [Linked White Paper](https://github.com/deep-model/Automatic_Speech_Recognition/blob/main/ASR_Report_M.Harper.pdf)
 
 
 <img align="left" width="500" height="500" src="https://github.com/deep-model/Automatic_Speech_Recognition/blob/main/figure%201.png">
