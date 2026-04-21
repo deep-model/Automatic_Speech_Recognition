@@ -318,11 +318,12 @@ illustrated in the the formula below where convolution was utilized to add or em
 the original signal [5]. 
 
 <img width="900" height="600" alt="image" src="https://github.com/deep-model/Automatic_Speech_Recognition/blob/main/eq%205.png"/>
+<br>
+<br>
+<b> The graphs below in the figure indicate a significant reduction in % WER in both monolingual and 
+multilingual models.  </b>
 
-The graphs below in the figure indicate a significant reduction in % WER in both monolingual and 
-multilingual models.  
-
-<img width="900" height="600" alt="image" src="https://github.com/deep-model/Automatic_Speech_Recognition/blob/main/Abstract.png"/>
+<img width="900" height="600" alt="image" src="https://github.com/deep-model/Automatic_Speech_Recognition/blob/main/fig%202.png"/>
 ### Figure 2 – Results of ASR model trained with noise embedded augmented audio data set combined with [5]. 
 
 ### Training SR Models 
@@ -415,15 +416,25 @@ nb [8]
 ### The process for the Transformer Classification: 
 
 Step 1 – Load the Python Libraries huggingface_hub and NeMo toolkit ASR from Github 
+<br>
 Step 2 – Create Path to data directory   
+<br>
 Step 3 – Load AN4 Dataset  
+<br>
 Step 4 – Convert to .wav Audio Files 
+<br>
 Step 5 – Verify Dataset Loaded & Converted (display audio waveform) 
+<br>
 Step 6 – Install NeMo ASR Toolkit 
+<br>
 Step 7 – Insantiate QuartzNet ASR Model 
+<br>
 Step 8 – Create Training/Evaluation Manifest of Metadata/Descriptions 
+<br>
 Step 9 – Load YAML Model Parameter Configurations 
+<br>
 Step 10 – Train Model with PyTorch Lightning 
+<br>
 Step 11 – Inference 
 
 
@@ -434,7 +445,8 @@ Step 11 – Inference
 
 
 This repository hosts a **GitHub Pages–optimized version** of the ASR Report by **Matthew Harper**.
-
+<br>
+<br>
 ## 📄 Live Document
 👉 View the report here: [**GitHub Pages site**](https://github.com/deep-model/Automatic_Speech_Recognition/blob/main/ASR_Report_M.Harper.pdf)
 
