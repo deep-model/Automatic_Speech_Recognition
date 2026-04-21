@@ -7,7 +7,7 @@
 ## [Veiw Project List](https://github.com/deep-model?tab=repositories)
 
 
-<img width="900" height="600" alt="image" src="https://github.com/deep-model/Automatic_Speech_Recognition/blob/main/Abstract.png"/>
+<img width="300" height="300" alt="image" src="https://github.com/deep-model/Automatic_Speech_Recognition/blob/main/Abstract.png"/>
 
 
 ## Abstract
