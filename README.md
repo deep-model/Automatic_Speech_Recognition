@@ -119,13 +119,13 @@ commands, even in complex or ambiguous situations [1].
 
 ### Examples of AI-Driven Enhancements in Speech Recognition [1]: 
 
-Deep Learning and Neural Networks: AI-driven systems use deep learning models to improve accuracy 
+<b> Deep Learning and Neural Networks: AI-driven systems use deep learning models to improve accuracy 
 and adaptability, allowing them to recognize a wider range of speech patterns and accents. 
 
-Natural Language Processing (NLP): AI integrates NLP techniques to understand the context and 
+<b> Natural Language Processing (NLP): AI integrates NLP techniques to understand the context and 
 meaning behind spoken words, enabling more natural and intuitive interactions. 
 
-Real-time Adaptation: AI enables systems to adapt to individual users over time, improving their ability 
+<b> Real-time Adaptation: AI enables systems to adapt to individual users over time, improving their ability 
 to recognize specific speech patterns and preferences. 
 Multilingual Support: AI has significantly improved the ability of speech recognition systems to support 
 multiple languages and dialects. 
@@ -157,19 +157,19 @@ interaction with in-car systems, speech recognition technology enhances the over
 
 ### Example Applications of AI-Driven SR Systems [1]: 
 
-Healthcare: AI-powered speech recognition automates medical transcription, reducing administrative 
+<b> Healthcare: AI-powered speech recognition automates medical transcription, reducing administrative 
 burdens and improving the accuracy of medical records. 
 
-Customer Service: Virtual assistants and chatbots powered by AI enhance customer service efficiency, 
+<b> Customer Service: Virtual assistants and chatbots powered by AI enhance customer service efficiency, 
 reduce wait times, and improve overall customer experiences.
 
-Automotive Industry: Voice-controlled systems in vehicles, enabled by speech recognition, contribute 
+<b> Automotive Industry: Voice-controlled systems in vehicles, enabled by speech recognition, contribute 
 to safer driving experiences by minimizing distractions. 
 
-Education: AI-driven speech recognition tools make education more accessible, facilitating language 
+<b> Education: AI-driven speech recognition tools make education more accessible, facilitating language 
 learning and providing support for students with disabilities. 
 
-Entertainment: Voice-controlled gaming, virtual reality, and content search enhance user experiences, 
+<b> Entertainment: Voice-controlled gaming, virtual reality, and content search enhance user experiences, 
 making entertainment more interactive and engaging. 
 
 The recent developments in AI-driven speech recognition is transforming industries by enabling more 
@@ -190,25 +190,25 @@ into text [1].
 The following items include the process steps of converting speech to text, all of which can be efficiently 
 handled by deep learning models [1]:  
 
-Audio Input Processing: The first step is to process the incoming audio signal, which typically 
+<b> Audio Input Processing: The first step is to process the incoming audio signal, which typically 
 involves splitting the audio into small segments or "slices." These segments might be as short as 
 20 milliseconds, as shown in the diagram on the slide.  
 
-Feature Extraction: Each audio slice is then transformed into a set of features that can be 
+<b> Feature Extraction: Each audio slice is then transformed into a set of features that can be 
 processed by the neural network. Common features include Mel-frequency cepstral coefficients 
 (MFCCs) and spectrograms, which represent the frequency and intensity of the audio signal over 
 time.  
 
-Modeling Sequential Data: Speech is inherently sequential, meaning the order of the audio slices 
+<b> Modeling Sequential Data: Speech is inherently sequential, meaning the order of the audio slices 
 matters. Deep learning models, particularly those designed for sequential data, are used to 
 capture this temporal relationship. The model processes each slice in the context of previous slices 
 to maintain the continuity of speech. 
 
-Prediction of Phonemes or Words: As the model processes each audio slice, it generates a 
+<b> Prediction of Phonemes or Words: As the model processes each audio slice, it generates a 
 probability distribution over possible phonemes or words. The model's current state, influenced 
 by previous audio slices, guides the prediction for the current slice. 
 
-Decoding the Output: The final step involves decoding the sequence of predicted phonemes or 
+<b> Decoding the Output: The final step involves decoding the sequence of predicted phonemes or 
 words into coherent text. This might involve additional processing, such as using language models 
 to improve the grammaticality and coherence of the output. 
 
@@ -217,11 +217,11 @@ Although many, there a few prominent models more commonly used for SR and speech
 
 These include the following deep learning models [1]: 
 
-Recurrent Neural Networks (RNNs): RNNs are designed to handle sequential data by maintaining 
+<b> Recurrent Neural Networks (RNNs): RNNs are designed to handle sequential data by maintaining 
 a hidden state that is passed from one time step to the next. This makes them suitable for speech 
 recognition, where the sequence of sounds is crucial.  
 
-Long Short-Term Memory (LSTMs): A form of RNN that includes special gates to control the flow 
+<b> Long Short-Term Memory (LSTMs): A form of RNN that includes special gates to control the flow 
 of information, allowing them to maintain long-term dependencies. This helps in handling 
 sequences where context from earlier in the sequence is important.  
 
