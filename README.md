@@ -38,7 +38,7 @@ basic ASR model with the lab practicum.
 
 <p align="left">
   
-<Abstract: AI-based  speech recognition is a rapidly growing field of research which has transformed the way humans interact not 
+< Abstract: AI-based  speech recognition is a rapidly growing field of research which has transformed the way humans interact not 
 only with machines but with each other. Speech recognition is considered a technology that enables machines to understand and interpret human speech 
 [1]. Also known as automatic speech recognition (ASR), computer speech recognition or speech-to-text, is a capability that enables a program to 
 process human speech into a written format. While speech recognition is commonly confused with voice recognition, speech recognition focuses on 
